@@ -1,0 +1,26 @@
+name: Center for Social Computing and Internet Society
+description: Kerala based non-profit IT organization
+
+markdown: kramdown
+highlighters: pygments
+permalink: /blog/:year/:title/
+
+url: http://www.c4s.org.in/
+
+sass:
+    sass_dir: _scss
+    style: :expanded
+
+footer-links:
+    email: info@c4s.org.in
+    github: c4sc
+
+gems:
+    - jemoji
+    - jekyll-sitemap
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
