@@ -1,0 +1,18 @@
+---
+layout: columns
+---
+
+<div class="sidebar" markdown="1">
+{% if page && page.links %}
+   <ul>
+   {% for link in page.links %}
+   <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+   {% endfor %}
+   </ul>
+{% endif %}
+</div>
+
+<div class="main" markdown="1">
+{{ content }}
+</div>
+

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<section class="row">
+    <div class="sidebar">
+        {% if page && page.links %}
+          <ul>
+          {% for link in page.links %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+          </ul>
+        {% endif %}
+    </div>
+
+    <div class="main">
+        {{ content }} 
+    </div>
+</section>
