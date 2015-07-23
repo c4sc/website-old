@@ -8,10 +8,11 @@ js: [leaflet, map]
 
 # About Us
 
-Center for Social Computing and InformationSociety was registered in 2011 under the Societies Act of India.
+Centre for Social Computing & Information Society (C4S) is a non-profit society that takes a inter-disciplinary approach to enable change and social development using Information and Communication Technology. The hyper networked global village is over loaded with resources and solutions while our real local village is still 'out of coverage area'.
 
-It is the first non-profit organization from Kerala accredited by Government to deliver ICT solutions for various government agencies. We are designing, developing and delivering software and long-distance WiFi solutions for Kerala State Planning board, Kerala State IT mission, National Informatics Centre, National Rural Employment Guarantee Act, General Education Department, IT@Schools, Higher Secondary Directorate, Directorate of Collegiate Education, Local Self Governance, Agricultural University and KELTRON.
-  
+Our simple mission is to bring these technologies and solutions to local communities,   allowing them to create their own knowledge economies and enabling them to connect on their own terms with the world at large.
+
+ 
 ## Contact
 Phone: +91 98475 31639
 
