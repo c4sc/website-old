@@ -12,11 +12,13 @@ Centre for Social Computing & Information Society (C4S) is a non-profit society 
 
 Our simple mission is to bring these technologies and solutions to local communities,   allowing them to create their own knowledge economies and enabling them to connect on their own terms with the world at large.
 
+C4S was founded in 2011 at Sulthan Bathery, Wayanad, Kerala by a group of people including a doctor, academic, writers and open-source enthusiasts. The organization finds a space witin various local communities -- tribal colonies, farmers, gender groups, educators, student & local bodies -- and tries to bridge the critical gaps in infrastructure, access to education, healthcare and other opportunities. We are working with knowledge institutions, local and state governments in different areas to enable local development.
  
 ## Contact
+
 Phone: +91 98475 31639
 
-Email:
+Email: info@c4s.org.in
 
 Address: 
 
