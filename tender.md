@@ -26,4 +26,5 @@ for the listed products and services as per following details.
 8. The C4S reserves the right to reject any tender/purchase proposal without assigning any reason thereto.
 
 Managing Director
+
 Center for Social Computing and Information Society
