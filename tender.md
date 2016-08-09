@@ -24,3 +24,6 @@ for the listed products and services as per following details.
 6. The 50 % of quoted amount has to be paid at the time signing purchase agreement.
 7. The balance amount has to be paid within one month from the date of agreement.
 8. The C4S reserves the right to reject any tender/purchase proposal without assigning any reason thereto.
+
+Managing Director
+Center for Social Computing and Information Society
